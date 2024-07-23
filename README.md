@@ -1,2 +1,2 @@
-# htmlcouse
-html couse
+# htmlcourse
+html course
